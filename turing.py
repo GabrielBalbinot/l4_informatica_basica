@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = f'Algumas frases de Alan Turing são:\n"As máquinas me surpreendem muito frequentemente"\n"Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer."\n"Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar."'
     return mensagem
 
 
