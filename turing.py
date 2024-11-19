@@ -4,17 +4,17 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Em junho de 1938, ele obteve seu doutorado no Departamento de Matemática de Princeton; sua dissertação, Systems of Logic Based on Ordinals, introduziu o conceito de lógica ordinal e a noção de computação relativa"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Turing trabalhou na decidibilidade de problemas, partindo dos teoremas da incompletude de Gödel, construiu três dos quatro estágios de um multiplicador binário eletromecânico. Turing foi um dos principais participantes na quebra de cifras alemãs em Bletchley Park."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Equivalência de quase periodicidade esquerda e direita, The Applications of Probability to Cryptography, Paper on Statistics of Repetitions"
     return mensagem
 
 
